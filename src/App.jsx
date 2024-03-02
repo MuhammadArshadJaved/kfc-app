@@ -14,7 +14,7 @@ function App() {
           <span className="icon"><i className="fa-solid fa-bars aa"></i></span>
           <img src={imgs[0].kfcImg} alt="" />
           <span className="mid-btns">
-            <button className="btns-1"><img src={imgs[0].bike} className="same-1" alt="" />DELIVERY1</button>
+            <button className="btns-1"><img src={imgs[0].bike} className="same-1" alt="" />DELIVERY</button>
             <span className="btns-1 box"><img src={imgs[0].pack} className="same-1" alt="" />PICKUP</span>
           </span>
         </div>
